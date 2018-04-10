@@ -1,7 +1,7 @@
 import $ from 'jquery';
 import merge from './merge';
 
-import './css/style.scss';
+import '../css/style.scss';
 
 $('.title').text('Hello world');
 console.log('hello');
